@@ -30,7 +30,7 @@ const Body = () => {
 
     // Cleanup subscription on unmount
     return () => unsubscribe();
-  }, []);
+  }, [dispatch, navigate]);
 
   const routes = useRoutes([
     { path: '/', element: <Home /> },
