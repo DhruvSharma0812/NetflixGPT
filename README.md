@@ -1,42 +1,28 @@
 # Netflix GPT
-- Create React App
-- Configured TailwindCSS
-- Header
-- Routing of App
-- Login Form
-- Sign up Form
-- Form Validation
-- useRef Hook
-- Firebase Setup
-- Deploying our app to production
-- Create SignUp User Account
-- Implement Sign In user Api
-- Created Redux Store with userSlice
-- Implemented Sign out
-- Update Profile
-- BugFix: Sign up user displayName and profile picture update
-- BugFix: if the user is not logged in Redirect /browse to Login Page and vice-versa
-- Unsubscibed to the onAuthStateChanged callback
-- Add hardcoded values to the constants file
-- Regiter TMDB API & create an app & get access token
-- Get Data from TMDB now playing movies list API
-- Custom Hook for Now Playing Movies
-- Create movieSlice
-- Update Store with movies Data
-- Planning for MainContauiner & secondary container
-- Fetch Data for Trailer Video
-- Update Store with Trailer Video Data
-- Embedded the Yotube video and make it autoplay and mute
-- Tailwind Classes to make Main Container look awesome
-- Build Secondary Component
-- Build Movie List
-- build Movie Card
-- TMDB Image CDN URL
-- Made the Browsre page amazing with Tailwind CSS
-- usePopularMovies Custom hook
-- GPT Search Page
-- GPT Search Bar
-- (BONUS) Multi-language Feature in our App
+NetflixGPT is a React-based web application designed to enhance the movie-watching experience by providing personalized movie recommendations and seamless browsing. This project integrates with the NetflixGPT API to offer movie search and suggestion features, all within an intuitive and user-friendly interface.
+
+# Features
+User Authentication: Secure login and sign-up functionality, ensuring only authenticated users can access specific features.
+Movie Search: Use the NetflixGPT API to search for movies based on various criteria, such as genre, title, or keywords.
+Browse Page: For logged-in users, the browse page displays a curated selection of movies, complete with trailers, titles, and descriptions.
+Main Movie Section: Highlight a featured movie with a trailer and detailed information.
+Movie Suggestions: Provide personalized movie suggestions based on user preferences and search history.
+Responsive Design: Ensures optimal viewing experience across different devices.
+Technologies Used
+Frontend: React, HTML, CSS, JavaScript
+Backend: NetflixGPT API for fetching movie data
+Authentication: Custom authentication mechanism for user login and sign-up
+UI/UX: Designed to provide a seamless and engaging user experience
+
+# Usage
+Search for Movies: Use the search bar to find movies using the NetflixGPT API.
+Browse and Discover: Explore the curated list of movies and get detailed information about each.
+Personalized Suggestions: Get movie recommendations based on your preferences.
+
+# Future Enhancements
+User Profiles: Allow users to create profiles and save their favorite movies.
+Watchlist: Implement a feature to add movies to a watchlist.
+Advanced Search Filters: Introduce more filters for refined movie search.
 
 
 
