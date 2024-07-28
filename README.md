@@ -8,7 +8,7 @@ NetflixGPT is a React-based web application designed to enhance the movie-watchi
 - Main Movie Section: Highlight a featured movie with a trailer and detailed information.
 - Movie Suggestions: Provide personalized movie suggestions based on user preferences and search history.
 - Responsive Design: Ensures optimal viewing experience across different devices.
-- 
+
 # Technologies Used
 - Frontend: React, HTML, CSS, JavaScript
 - Backend: NetflixGPT API and TMDB API for fetching movie data
