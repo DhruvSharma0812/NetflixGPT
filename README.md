@@ -1,6 +1,8 @@
 # Netflix GPT
 NetflixGPT is a React-based web application designed to enhance the movie-watching experience by providing personalized movie recommendations and seamless browsing. This project integrates with the NetflixGPT API to offer movie search and suggestion features, all within an intuitive and user-friendly interface.
 
+Live At : https://main--justvideo.netlify.app/
+
 # Features
 - User Authentication: Secure login and sign-up functionality, ensuring only authenticated users can access specific features.
 - Movie Search: Use the NetflixGPT API to search for movies based on various criteria, such as genre, title, or keywords.
